@@ -1,0 +1,5 @@
+1. choose player as interpreter/coder/computer
+2. player -> give command -> interpreter
+3. interpreter -> give answer to computer
+4.computer -> interpreter -> coder
+on and on and on again
